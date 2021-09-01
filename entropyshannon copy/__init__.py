@@ -2,7 +2,7 @@ import math
 
 
 
-def shanon_entropy(string):
+def shannon_entropy(string):
     """
     Calculates the Shannon entropy for the given  string.
     :param string: String to parse.
